@@ -1,0 +1,55 @@
+[
+	{
+		"id": 1,
+		"timestamp": 1668695627073,
+		"cartProducts": [
+			{
+				"id": 1,
+				"quantity": 2
+			},
+			{
+				"id": 2,
+				"quantity": 12
+			}
+		]
+	},
+	{
+		"id": 2,
+		"timestamp": 1668695636822,
+		"cartProducts": []
+	},
+	{
+		"id": 3,
+		"timestamp": 1668695699374,
+		"cartProducts": [
+			{
+				"id": 2,
+				"quantity": 1
+			}
+		]
+	},
+	{
+		"id": 4,
+		"timestamp": 1668695686273,
+		"cartProducts": []
+	},
+	{
+		"id": 5,
+		"timestamp": 1668695443160,
+		"cartProducts": [
+			{
+				"id": 1,
+				"quantity": 9
+			},
+			{
+				"id": 2,
+				"quantity": 6
+			}
+		]
+	},
+	{
+		"id": 6,
+		"timestamp": 1668695875023,
+		"cartProducts": []
+	}
+]

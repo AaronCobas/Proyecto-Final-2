@@ -1,0 +1,52 @@
+[
+	{
+		"timestamp": 1668631892065,
+		"title": "Celular",
+		"description": "Kodak Smartway L1 Pro Dual SIM 16 GB gris oscuro 2 GB RAM",
+		"code": "74c76e2e29ee6",
+		"thumbnail": "https://http2.mlstatic.com/D_NQ_NP_796011-MLA47691058372_092021-V.webp",
+		"price": 29000,
+		"stock": 40,
+		"id": 1
+	},
+	{
+		"timestamp": 1668632021143,
+		"title": "Computadora",
+		"description": "Computadora Pc Cpu Solarmax Intel Core I5 11va 8gb 240 Ssd",
+		"code": "db4a355fa0285",
+		"thumbnail": "https://http2.mlstatic.com/D_NQ_NP_679707-MLA49850523001_052022-W.webp",
+		"price": 112000,
+		"stock": 30,
+		"id": 2
+	},
+	{
+		"timestamp": 1668632191682,
+		"title": "Microondas",
+		"description": "Microondas Grill Sansei MDGSA28NPI blanco 28L 220V",
+		"code": "de0921d026bea",
+		"thumbnail": "https://http2.mlstatic.com/D_NQ_NP_718270-MLA50584524451_072022-W.webp",
+		"price": 36000,
+		"stock": 32,
+		"id": 4
+	},
+	{
+		"timestamp": 1668632268554,
+		"title": "Televisor",
+		"description": "Smart TV Tedge LED 50 pulgadas NTV504K LED 4K 50 pulgadas 220V",
+		"code": "14f01617e85a9",
+		"thumbnail": "https://http2.mlstatic.com/D_NQ_NP_774646-MLA43196387330_082020-V.webp",
+		"price": 80000,
+		"stock": 583,
+		"id": 5
+	},
+	{
+		"timestamp": 1668694024261,
+		"title": "Pileta",
+		"description": "Pileta inflable rectangular Bestway 54005 de 201cm x 150cm x 51cm 450L azul",
+		"code": "07dda9cd17cec",
+		"thumbnail": "https://http2.mlstatic.com/D_NQ_NP_997949-MLA41252550321_032020-O.webp",
+		"price": "11600",
+		"stock": "90",
+		"id": 6
+	}
+]
